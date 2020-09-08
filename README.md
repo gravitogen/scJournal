@@ -23,6 +23,7 @@ Reference:
 
 ## Data Analysis Workflow with Examples
 1. Generating gzipped fastq dump from SRA Accession list: [Generate FASTQ GZ](https://github.com/gravitogen/scJournal/blob/master/Workflow/generate_fastq.bash)
+2. [From .SRA to BAM file](https://github.com/gravitogen/scJournal/blob/master/Workflow/fromSRAtoBAM.md) 
 
 ## RNA Velocity Papers
 1. https://www.embopress.org/doi/10.1038/msb.2011.62
