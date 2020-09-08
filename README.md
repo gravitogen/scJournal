@@ -13,3 +13,9 @@
 3. https://www.sciencedirect.com/science/article/abs/pii/S1097276518307974
 4. https://www.biorxiv.org/content/10.1101/673285v1
 
+## Notable people in single-cell research
+1. Rahul Satija
+2. Sten Linnarsson
+3. Peter V. Kharchenko
+4. Lior Pachter
+5. ValentineSvensson
