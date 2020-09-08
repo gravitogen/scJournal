@@ -19,3 +19,4 @@
 3. Peter V. Kharchenko
 4. Lior Pachter
 5. ValentineSvensson
+6. Fabian J. Theis
