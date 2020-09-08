@@ -22,7 +22,7 @@ Reference:
 2. https://liorpachter.wordpress.com/2019/07/01/high-velocity-rna-velocity/
 
 ## Data Analysis Workflow with Examples
-1. Generating gzipped fastq dump from SRA Accession list: 
+1. Generating gzipped fastq dump from SRA Accession list: [Generate FASTQ GZ](https://github.com/gravitogen/scJournal/blob/master/Workflow/generate_fastq.bash)
 
 ## RNA Velocity Papers
 1. https://www.embopress.org/doi/10.1038/msb.2011.62
