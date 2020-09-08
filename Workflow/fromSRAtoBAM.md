@@ -116,6 +116,9 @@ Once we have genome index, we can perform alignment as follows:
  STAR --runThreadN 7 --genomeDir mm10index/ --sjdbGTFfile ~/refdata-gex-mm10-2020-A/genes/genes.gtf  --sjdbOverhang 99 --readFilesIn ~/fastq/SRR6084365.fastq --outSAMtype BAM SortedByCoordinate --outSAMunmapped Within --outSAMattributes Standard -outFileNamePrefix GSM2795247
 ```
 
+This will produce a .bam file in the current directory.
+
+
 ## References
 1. https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest
 2. https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump
