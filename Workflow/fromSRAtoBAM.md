@@ -75,7 +75,7 @@ fastq-dump *.sra
 
 ```
 wget https://github.com/alexdobin/STAR/archive/2.7.5c.tar.gz
-sudo cp  2.7.5c.tar.gz
+sudo cp  2.7.5c.tar.gz /opt
 sudo tar -xzf 2.7.5c.tar.gz
 ```
 
