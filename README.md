@@ -19,12 +19,18 @@ The FASTQ format contains four rows per sequencing read: (i)a  header containing
 <p align="center"><img src="https://web.archive.org/web/20200907070342im_/https://biocorecrg.github.io/RNAseq_course_2019/images/phred_quality.png"/>
 </p>
 
-  
+
+  - Score = 10 (symbol ‘+’) => probability of incorrect base call = 0.1 => base call accuracy = 90%
+  - Score = 20 (symbol ‘5’) => probability of incorrect base call = 0.01 => base call accuracy = 99%
+  - Score = 30 (symbol ‘?’) => probability of incorrect base call = 0.001 => base call accuracy = 99.9% - This is a commonly acceptable threshold for trimming.
+  - Score = 40 (symbol ‘I’) => probability of incorrect base call = 0.0001 => base call accuracy = 99.99%
+
+
 
 Reference: 
 - https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0
 - https://medicine.uiowa.edu/humangenetics/genomics/genomics-division/genome-sequencing/ngs-data-storage-policy
-
+- https://biocorecrg.github.io/RNAseq_course_2019/fastq.html
 
 
 ## Blog reading
