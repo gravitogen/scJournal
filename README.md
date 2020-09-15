@@ -31,7 +31,7 @@ Reference:
 - https://medium.com/@marija190396/bcl-to-fastq-conversion-e289852823d0
 - https://medicine.uiowa.edu/humangenetics/genomics/genomics-division/genome-sequencing/ngs-data-storage-policy
 - https://biocorecrg.github.io/RNAseq_course_2019/fastq.html
-
+- https://biocellgen-public.svi.edu.au/mig_2019_scrnaseq-workshop/public/processing-raw-scrna-seq-data.html
 
 ## Blog reading
 1. https://liorpachter.wordpress.com/2019/06/21/single-cell-rna-seq-for-dummies/
