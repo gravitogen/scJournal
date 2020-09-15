@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/gravitogen/scJournal/blob/master/scJournal.png?raw=true"/>
+<p align="center"><img src="https://github.com/gravitogen/scJournal/blob/master/scJournal.png?raw=true" width="50"/>
   </p>
 
 # Journalling Single-Cell Reading
