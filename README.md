@@ -49,6 +49,8 @@ Reference:
 5. https://www.pnas.org/content/116/39/19490
 6. https://jef.works/blog/2020/08/25/using-scvelo-in-R-using-reticulate/
 
+## Reference datasets
+1. mm10 genome index for kallisto used for RNA velocity: https://zenodo.org/record/3623148
 ## Notable people in single-cell research
 1. Rahul Satija
 2. Sten Linnarsson
