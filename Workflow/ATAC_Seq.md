@@ -9,3 +9,9 @@ sudo apt-get install cutadapter
 ```
 
 In a python virtual machine, it can be installed as `pip install cutadapt` 
+
+
+# References
+
+1. https://informatics.fas.harvard.edu/atac-seq-guidelines.html
+2. 
