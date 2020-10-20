@@ -20,6 +20,11 @@ make
 
 `make` will produce an executable `NGmerge`, you can run as `./NGmerge`.
 
+## Alignment
+
+Aligning the read to the reference genomes is required in the next step. We will use `bowtie2` for the purpose. 
+
+For many model organisms, the genome and pre-built reference indexes are available from [iGenomes](https://support.illumina.com/sequencing/sequencing_software/igenome.html).
 
 # References
 
